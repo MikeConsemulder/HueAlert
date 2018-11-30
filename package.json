@@ -1,0 +1,23 @@
+{
+  "name": "huealert",
+  "version": "1.0.0",
+  "description": "Alerts for you hue across multiple bridges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeConsemulder/HueAlert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeConsemulder/HueAlert/issues"
+  },
+  "homepage": "https://github.com/MikeConsemulder/HueAlert#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "pusher-client": "^1.1.0"
+  }
+}
